@@ -4,3 +4,14 @@ it automatically created new Remote Repo
    under G.com
    made the connection with your local repo
    Added all your commits to remote repo
+
+
+
+   now our work will continue locally 
+
+   1. added a new file note.txt
+   2. commited change to local repo
+   3. we wanna change to be reflected in Remote 
+   repo on github.com, so we puch local commit
+   to remote repo, using PUSH ORIGIN button
+   4. Observe changes on github.com
