@@ -20,3 +20,7 @@ it automatically created new Remote Repo
 How to save? 
 Command+S
 or click on file and save
+
+we dont have to put 1 commit at the time
+
+
