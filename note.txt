@@ -15,3 +15,8 @@ it automatically created new Remote Repo
    repo on github.com, so we puch local commit
    to remote repo, using PUSH ORIGIN button
    4. Observe changes on github.com
+
+
+How to save? 
+Command+S
+or click on file and save
