@@ -1,0 +1,5 @@
+We just published our local git repository(repo)
+to remote Github.com repository
+it automatically created new Remote Repo
+   under G.com
+   made the connection
